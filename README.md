@@ -8,13 +8,13 @@ To evaluate the performance of the MDPS, extensive experiments are conducted on 
 
 # TRAINING PREDICTION MODELS WITH REAL-WORLD DATASETS
 
-Heart diseases Prediction Model:
+Heart diseases Prediction Model: 
 [https://colab.research.google.com/drive/1GEwhOaYcjydx-ZftKgdudgnSx2gp2MPF?usp=sharing]
 
-Parkinson's Disease Prediction Model:
+Parkinson's Disease Prediction Model: 
 [https://colab.research.google.com/drive/1EuxAunmdKRDdWXXPWXpOOBTBdRjpt5M9?usp=sharing]
 
-Diabetes Prediction Model:
+Diabetes Prediction Model: 
 [https://colab.research.google.com/drive/1ASAR0iFQAqjV42QdvXQRrt1zYvPo-hCJ?usp=sharing]
 
 
